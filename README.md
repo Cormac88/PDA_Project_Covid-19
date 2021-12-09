@@ -5,7 +5,7 @@ Using statistics available about Ireland to simulate data about Covid-19
 
 ## Objectives of this Project
 
-The objective of this project is to synthesise and simulate some data about Covid-19 cases using the NumPy Random package and basing this off real data from sources such as the Central Statistics Office (CSO) and the HSE. The sample size will be 500 and the variables that I will analyse will be:
+The objective of this project is to synthesise and simulate some data about Covid-19 cases using the NumPy Random package and basing this off real data from sources such as the Central Statistics Office (CSO) and the HSE. The sample size will be 100 to start with and the variables that I will analyse will be:
 
 - Age
 - Gender
@@ -15,7 +15,7 @@ The objective of this project is to synthesise and simulate some data about Covi
 - Admission to ICU
 - Death/Recovery
 
-To breakdown this project and to start it, I am going to focus on the Age variable first. I will get some statistics from the web and get the age data simulated and put this into a Pandas DataFrame using NumPy.
+To breakdown this project and to start it, I am going to focus on the Age variable first. I will get some statistics from the web and get the age data simulated and put this into a Pandas DataFrame using NumPy. This has been achieved now along with simulating some data on gender. These statistics have been added to a pandas dataframe called `dfcovid`.
 
 # Quick Steps
 
