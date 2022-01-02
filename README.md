@@ -19,6 +19,14 @@ To breakdown this project and to start it, I am going to focus on the Age variab
 
 # Quick Steps
 
+### nbviewer:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Cormac88/PDA_Project_Covid-19/tree/main/)
+
+### Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cormac88/PDA_Project_Covid-19/HEAD)
+
 # Install
 
 ## Installing Python and Jupyter Notebook
