@@ -21,7 +21,7 @@ These statistics have been added to a pandas dataframe called `dfcovid`. I also 
 
 I then did some data analysis using Seaborn. The plots that I used are as seen below:
 1. Countplots
-2. histograms
+2. Histograms
 3. Pieplots
 4. Boxplots
 5. Catplots <br>
