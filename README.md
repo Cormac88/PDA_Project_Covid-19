@@ -1,4 +1,4 @@
-![Coronavirus](https://cumming.ucalgary.ca/sites/default/files/styles/ucws_hero_cta_desktop_short/public/2020-03/cropped-covid-19.jpg?itok=2Pee-EqO)
+![Coronavirus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/768px-Coronavirus._SARS-CoV-2.png)
 
 # PDA_Project_Covid-19
 Using statistics available about Ireland to simulate data about Covid-19
